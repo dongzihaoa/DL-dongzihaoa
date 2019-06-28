@@ -100,6 +100,6 @@ SGD
 theta0 :  15.34014074719618
 theta1 :  29.348745394676136
 
-
+![image]https://github.com/dongzihaoa/DL-dongzihaoa/blob/4419cee195e16e831db812ff4ed76431bc924030/photo.png
 
 
